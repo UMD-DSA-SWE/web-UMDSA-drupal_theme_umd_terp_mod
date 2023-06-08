@@ -1,3 +1,8 @@
+# Changes
+This is a customized version of the theme to address specific minor issues listed below
+
+- 
+
 # About UMD Terp Theme
 
 UMD Terp is the base theme for all UMD drupal 8 projects. It combines UMD approved elements and functionality, into a modified bootstrap theme. It is best used alongside the [UMD Terp Base Module](https://github.com/UMD-Digital/umd_terp_base), which provides a suite of modules, and configuration to make this theme work as designed. It is also designed to integrate the [UMD Schoolwide Header](https://github.com/UMD-Digital/umd_schoolwide_header).
