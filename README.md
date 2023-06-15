@@ -1,7 +1,7 @@
 # Changes
-This is a customized version of the theme to address specific minor issues listed below
+This is a sub-theme of the UMD_terp theme addressing the following issues 
 
-- 
+- hyperlink visibility
 
 # About UMD Terp Theme
 

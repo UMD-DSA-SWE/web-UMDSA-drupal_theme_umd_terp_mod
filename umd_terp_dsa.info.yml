@@ -1,8 +1,8 @@
 type: theme
-name: UMD Terp DSA Mod
+name: UMD Terp DSA Subtheme
 description: 'UMD Terp (umd_terp), is a drupal 8 base theme suitable for all UMD projects.'
 package: UMD.EDU
-base theme: stable
+base theme: umd_terp
 core_version_requirement: ^8.8 || ^9
 version: 8.1.105
 libraries:
